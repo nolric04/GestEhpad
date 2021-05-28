@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+
+tbody{
+	display : block;
+	overflow : auto;
+}
+
+thead{
+	display:block;
+}
+
+.liste{
+	display : inline;
+}
